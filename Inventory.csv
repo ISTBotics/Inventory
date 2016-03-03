@@ -1,11 +1,13 @@
-Product Name,Product Number, Description,Link,Quantity
-Sparkfun Mini Inventor Kit,Dev-13160,Sparkfun Redboard Arduino Kit,https://www.sparkfun.com/products/13160,7
-,,,,
-"4"" Flexible Strech Sensor",RB-IMA-13,Black Resistive Sensor,,3
-IR Range Sensor,RB-Dev-69 IR ,range sensor,,3
-Linear Actuator,RB-Fir-119 ,100mm actuator,,1
-Peristaltic Pump,RB-Ada-91, Liquid pump,,1
-100mm Firgelli Linear Actuator       ,  RB-Fir-33  , 6V Linear Actuator,,1
- Motor Controller , N/A   ,DC Motor Controller,,1
-"Button Load Cell, Phidgets Inc",3136_0; 5230,50 kg Load Cell,,1
-SparkFun Mini Inventor's Kit,Dev-13160,Redboard Arduino Kit,,7
+Product Name,Product Type,Product Details,Product Number, Description,Link,Quantity
+Sparkfun Mini Inventor Kit,Developer Kit,,Dev-13160,Sparkfun Redboard Arduino Kit,https://www.sparkfun.com/products/13160,7
+IR Range Sensor,Sensor,Distance,RB-Dev-69,IR proximity or distance sensor,http://www.robotshop.com/en/gp2y0e02a-ir-range-sensor-4cm-50cm-analogue-output.html,21
+Sharp GP2 Sensor Cable,Cable,,RB-Onl-11,3-pin connector for SHARP IR sensor,http://www.robotshop.com/en/sirc-01-sharp-gp2-ir-sensor-cable-8.html,20
+Firgelli Control Board,Board,Control Board,RB-Fir-121,Control board for Firgelli linear actuators,http://www.robotshop.com/en/firgelli-technologies-linear-actuator-control-board.html,3
+Strain Guage Amplifier,Shield,Amplifier,RB-Onl-38,Amplifier shield for strain guage load cell,http://www.robotshop.com/en/strain-gauge-load-cell-amplifier-shield-2ch.html,2
+Phidgets Wheatstone Bridge Sensor Interface,Board,Amplifier,RB-Phi-107,Control board from Phidgets,http://www.robotshop.com/en/phidgetbridge-wheatstone-bridge-sensor-interface.html,1
+Adafruit Water Flow Sensor,Sensor,Flowmeter,RP-Ada-68,Flowmeters are designed to measure the flowrate of liquids,http://www.robotshop.com/en/adafruit-water-flow-sensor.html,1
+"4"" Flexible Strech Sensor",Sensor,Load,RB-Ima-13,Black Resistive Sensor,http://www.robotshop.com/en/images-scientific-4inch-stretch-sensor.html,3
+50 Kg Load Cell,Sensor,Load,RB-Phi-121,50 kg Load Cell,http://www.robotshop.com/en/button-load-cell-50kg.html,1
+L16 Firgelli Linear Actuator,Actuator,Linear,RB-Fir-119 ,100 mm linear actuator,http://www.robotshop.com/en/linear-actuator-l16-100-150-12-p.html,1
+L12 Firgelli Linear Actuator,Actuator,Linear,RB-Fir-33  ,100 mm linear actuator,http://www.robotshop.com/en/firgelli-technologies-l12-100-100-06-p.html,1
+Motor Controller ,,, N/A   ,DC Motor Controller,,1
