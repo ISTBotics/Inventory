@@ -1,13 +1,17 @@
-Name,Product Number,Quantity
-Sushunova Martinez,RB-IMA-13,1
-Sushunova Martinez,RB-Dev-69 IR ,1
-Mohammad Odeh,RB-Fir-119 ,1
-Mohammad Odeh,Rb-Ima-13 ,1
-Mohammad Odeh,RB-Ada-91,1
-Mohammad Odeh,RB-Dev-69 IR ,1
-Ryan Ellis,RB-Ima-13 ,1
-Ryan Ellis,RB-Fir-33  ,1
-Ryan Ellis,RB-Dev-69,1
-Ryan Ellis,N/A   ,1
-Soukiana Assou,RB-Phi-121,1
-Edward Grekoski,Dev-13160,1
+Name,Product Name,Product Number, Description,Quantity,Team
+Sushunova Martinez,"4"" Flexible Strech Sensor",RB-IMA-13,Black Resistive Sensor,1,Jack
+,IR Range Sensor,RB-Dev-69 IR ,range sensor,1,
+Mohammad Odeh,Linear Actuator,RB-Fir-119 ,100mm actuator,1,Fluvio
+,4” flexible stretch sensor,Rb-Ima-13 ,Variable resistor,1,
+,Peristaltic Pump,RB-Ada-91, Liquid pump,1,
+,IR Range Sensor,RB-Dev-69 IR ,range sensor,1,
+Ryan Ellis,4” flexible stretch sensor,Rb-Ima-13 ,Variable resistor,1,Jack
+,100mm Firgelli Linear Actuator       ,  RB-Fir-33  , 6V Linear Actuator,1,
+, Infrared Range Sensor ,   RB-Dev-69,Dual Infrared Sensor,1,
+, Motor Controller , N/A   ,DC Motor Controller,1,
+Soukiana Assou,"Button Load Cell, Phidgets Inc",3136_0; 5230,50 kg Load Cell,1,Jack
+,SparkFun Mini Inventor's Kit,Dev-13159,Redboard Arduino Kit,1,
+Edward Grekoski,SparkFun Mini Inventor's Kit,Dev-13160,Redboard Arduino Kit,1,
+Andres Machado,IR Range Sensor,GP2YOE02A,,1,
+Matthew Boutelle,NA,NA,NA,0,Jack
+Nina Rothstein,NA,NA,NA,0,Fluvio
