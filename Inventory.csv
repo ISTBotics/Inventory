@@ -11,3 +11,7 @@ Adafruit Water Flow Sensor,Sensor,Flowmeter,RP-Ada-68,Flowmeters are designed to
 50 Kg Load Cell,Sensor,Load,RB-Phi-121,50 kg Load Cell,http://www.robotshop.com/en/button-load-cell-50kg.html,1
 Strain Guage Amplifier,Shield,Amplifier,RB-Onl-38,Amplifier shield for strain guage load cell,http://www.robotshop.com/en/strain-gauge-load-cell-amplifier-shield-2ch.html,2
 Motor Controller ,,, N/A   ,DC Motor Controller,,1
+Aluminum L-Bracket,,,2266,,,4
+Stepper Motor (18cm Lead Screw),,,2689,,,4
+Motor/Stepper/Servo Shield for Arduino v2 Kit - v2.3,Shield,,ADA-1438,Motor Sheild,https://www.adafruit.com/products/1438,4
+Linear Actuator Control Board,,,RB-Fir-121,MOTOR DRIVERS AND SHIELDS,http://www.robotshop.com/en/firgelli-technologies-linear-actuator-control-board.html,5
